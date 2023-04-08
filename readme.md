@@ -1,1 +1,1 @@
-# Projeto Academico utilizando html e CSS
+# Projeto Academico utilizando html, CSS e javaScript 
