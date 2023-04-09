@@ -1,4 +1,14 @@
 
+:root{
+    --font-family-primary:'comfortaa',cursive;
+    --primary-color:white;
+    --secondary-color:black;
+    --tertiary-color:blue;
+}
+
+
+
+
 .carrosel-box{
     box-sizing: border-box;
 }
@@ -42,4 +52,7 @@
     border-top-right-radius: 4px;
     border-top-left-radius: 4px;
     
+}
+.texto__card{
+    margin-bottom: 100px !important;
 }
